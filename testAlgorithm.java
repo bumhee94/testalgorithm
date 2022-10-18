@@ -5,4 +5,4 @@ class Solution {
         answer = num1 != num2 ? -1 :  1;
         return answer;
     }
-}gi
+}
