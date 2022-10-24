@@ -22,4 +22,4 @@ class Solution {
     }
 }
 
-https://school.programmers.co.kr/learn/courses/30/lessons/12937?language=java
+https://school.programmers.co.kr/learn/courses/30/lessons/1293  
